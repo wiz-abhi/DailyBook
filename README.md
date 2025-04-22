@@ -50,7 +50,6 @@ You'll find solutions in:
 
 ## 🚧 Progress Tracking
 
-I regularly update my progress in [Progress.md](./Progress.md).  
 Feel free to clone or fork this repo to start your own!
 
 ---
@@ -71,4 +70,4 @@ If you’re preparing for interviews, let’s connect and grow together!
 ---
 
 > **If versatility is an art, I am _The Artist_** 🎨  
-> ― Yours truly, [Your Name]
+> ― Yours truly, Abhishek
